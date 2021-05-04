@@ -1,0 +1,15 @@
+{
+  "name": "mongoosejs",
+  "version": "1.0.0",
+  "description": "mongoose db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.5",
+    "validator": "^13.6.0"
+  }
+}
